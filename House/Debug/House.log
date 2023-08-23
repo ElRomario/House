@@ -1,0 +1,4 @@
+﻿  House.cpp
+C:\Users\ElRomario\source\repos\House\House\House.cpp(47,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ElRomario\source\repos\House\House\House.cpp(80,21): warning C4018: <: несоответствие типов со знаком и без знака
+  House.vcxproj -> C:\Users\ElRomario\source\repos\House\Debug\House.exe
